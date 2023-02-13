@@ -1,0 +1,12 @@
+VERSION CONTROL SYSTEM
+Examples include Git(Github, Gitbat), Bitbucket,etc
+Uses of VCS include:
+1. Tracking codes changes.
+2. Knowing who makes changes to code.
+3. Collaboration.
+
+GIT BASH
+U - Untracked and A - Added.
+We use "git add" to put our files in the staging area
+git log - to check our commits.
+M - Modified.
